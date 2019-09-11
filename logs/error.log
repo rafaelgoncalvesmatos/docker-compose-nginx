@@ -1,0 +1,53 @@
+2019/09/11 01:20:49 [emerg] 1#1: invalid URL prefix in /etc/nginx/conf.d/api.dev.conf:8
+2019/09/11 01:20:50 [emerg] 1#1: invalid URL prefix in /etc/nginx/conf.d/api.dev.conf:8
+2019/09/11 01:20:51 [emerg] 1#1: invalid URL prefix in /etc/nginx/conf.d/api.dev.conf:8
+2019/09/11 01:20:52 [emerg] 1#1: invalid URL prefix in /etc/nginx/conf.d/api.dev.conf:8
+2019/09/11 01:20:53 [emerg] 1#1: invalid URL prefix in /etc/nginx/conf.d/api.dev.conf:8
+2019/09/11 01:20:56 [emerg] 1#1: invalid URL prefix in /etc/nginx/conf.d/api.dev.conf:8
+2019/09/11 01:20:59 [emerg] 1#1: invalid URL prefix in /etc/nginx/conf.d/api.dev.conf:8
+2019/09/11 01:21:06 [emerg] 1#1: invalid URL prefix in /etc/nginx/conf.d/api.dev.conf:8
+2019/09/11 01:21:20 [emerg] 1#1: invalid URL prefix in /etc/nginx/conf.d/api.dev.conf:8
+2019/09/11 01:21:46 [emerg] 1#1: invalid URL prefix in /etc/nginx/conf.d/api.dev.conf:8
+2019/09/11 01:22:38 [emerg] 1#1: invalid URL prefix in /etc/nginx/conf.d/api.dev.conf:8
+2019/09/11 01:23:39 [emerg] 1#1: invalid URL prefix in /etc/nginx/conf.d/api.dev.conf:8
+2019/09/11 01:24:39 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:24:40 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:24:41 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:24:42 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:24:43 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:24:44 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:24:46 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:24:50 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:24:57 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:25:10 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:25:37 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:26:28 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:27:27 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:27:28 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:27:29 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:27:30 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:27:31 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:27:33 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:27:37 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:27:44 [emerg] 1#1: open() "/etc/nginx/proxy.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/api.dev.conf:12
+2019/09/11 01:27:57 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2019/09/11 01:28:00 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2019/09/11 04:01:31 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:01:32 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:01:32 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:01:33 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:01:35 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:01:37 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:01:41 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:01:48 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:01:49 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:01:50 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:01:50 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:01:52 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:01:53 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:01:55 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:01:59 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:02:06 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:02:20 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:02:46 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
+2019/09/11 04:03:38 [emerg] 1#1: unknown directive "tcp_check_status" in /etc/nginx/conf.d/api.dev.conf:29
